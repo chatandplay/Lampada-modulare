@@ -21,7 +21,7 @@ Questo progetto è organizzato in modo modulare per facilitare l'aggiunta e la m
   - Velocità di tutte le animazioni
   - **MODIFICA SOLO QUESTO FILE per personalizzare la tua lampada!**
 
-### File delle Animazioni (8 totali)
+### File delle Animazioni (9 totali)
 
 Ogni animazione è in un file `.h` separato con due funzioni:
 
